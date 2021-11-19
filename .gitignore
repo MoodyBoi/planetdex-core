@@ -5,3 +5,5 @@ yarn.lock
 .prettierignore
 
 .vscode/
+
+ .DS_Store
